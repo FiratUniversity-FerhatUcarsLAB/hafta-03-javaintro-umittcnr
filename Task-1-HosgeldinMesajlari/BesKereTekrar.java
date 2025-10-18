@@ -1,5 +1,3 @@
-250541009
-ümitcan çinar
 public class JavayaHosGeldiniz {
 
 		public static void main(String[] args) {
@@ -10,4 +8,5 @@ public class JavayaHosGeldiniz {
 			System.out.println("Java'ya Hoş Geldiniz");
 		}
 }
+
 
